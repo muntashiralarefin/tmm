@@ -17,7 +17,7 @@ See this 1 minute video for a walkthrough: [https://www.loom.com/share/ecc4e7381
 
 ## Installing packages
 
-To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below:
+To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below: ggfgg
 ```python
 import math
 import pandas as pd
